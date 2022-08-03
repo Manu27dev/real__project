@@ -1,0 +1,102 @@
+{
+  "login": {
+    "password": "aaaaa",
+    "role": "admin",
+    "displayName": "Emanuele Cuomo",
+    "email": "manu@lele.com"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Emanuele",
+      "description": "Queste scarpe sono state concepite per accompagnare il",
+      "roleId": 101
+    },
+    {
+      "id": 2,
+      "name": "Alessio",
+      "description": "Queste scarpe sono state concepite per accompagnare il",
+      "roleId": 102
+    },
+    {
+      "id": 3,
+      "name": "Elena",
+      "description": "Queste scarpe sono state concepite per accompagnare il",
+      "roleId": 103
+    },
+    {
+      "id": 4,
+      "name": "Laura",
+      "description": "Queste scarpe sono state concepite per accompagnare il",
+      "roleId": 104
+    }
+  ],
+  "roles": [
+    {
+      "id": 101,
+      "roleName": "Admin"
+    },
+    {
+      "id": 102,
+      "roleName": "visitor"
+    }
+  ],
+  "products": [
+    {
+      "imageUrl": "http://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "price": 34,
+      "title": "Cuffie wireless",
+      "description": "Insonorizzate e super potenti, queste cuffie pompano musica fino a che il tuo orecchio non nepuoò più!!"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 78,
+      "title": "Nuova Polaroid camera",
+      "description": "Questa nuova fotocamera è in grado di riprodurre foto come se la realtà fosse stata bloccata davvero ino uno scatto"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "price": 213,
+      "title": "Scarpe ultra Natural",
+      "description": "Queste scarpe sono state concepite per accompagnare il piede in ogni suo passo, sono ultra comode ed esteticamente eleganti"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+      "price": 167,
+      "title": "New RayBan collection",
+      "description": "Occhiali nuovi e allavanguardia, con uno stile inconfondibile tipico del marchio che contraddistingue i suoi modelli proprio per la semplicità e l eleganza!!"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+      "price": 24,
+      "title": "Sgabello Salvaspazio",
+      "description": "Questo sgabello è in grado di svolgere due funzioni: essere comodo d essere invisibile quando ne si ha la possibilità, di fatti è richiudibile salvando cosi molto spazio!!"
+    }
+  ],
+  "productsNews": [
+    {
+      "name": "Ultime Novità",
+      "category": "Accessori",
+      "imageUrl": "http://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "price": 34,
+      "title": "Cuffie wireless",
+      "description": "Insonorizzate e super potenti, queste cuffie pompano musica fino a che il tuo orecchio non nepuoò più!!"
+    },
+    {
+      "name": "Prodotti in sconto",
+      "category": "smartphone",
+      "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "price": 78,
+      "title": "Nuova Polaroid camera",
+      "description": "Questa nuova fotocamera è in grado di riprodurre foto come se la realtà fosse stata bloccata davvero ino uno scatto"
+    },
+    {
+      "name": "Selezionati per te",
+      "category": "gadjet",
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "price": 213,
+      "title": "Scarpe ultra Natural",
+      "description": "Queste scarpe sono state concepite per accompagnare il piede in ogni suo passo, sono ultra comode ed esteticamente eleganti"
+    }
+  ]
+}
